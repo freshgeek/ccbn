@@ -11,3 +11,16 @@ CCBN（chenchao basic navigation knowledge base ，我的基础导航知识库�
 - [文章](./article/README.md)
 - [工具推荐](./tools/README.md)
 - [知识总结](./knowledge/README.md)
+
+## 联系我
+
+**微信**
+![img.png](./static%2Fimg.png)
+
+**微信公众号**
+
+**CSDN**
+
+**抖音**
+
+**Bilibili**
